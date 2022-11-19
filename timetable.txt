@@ -1,0 +1,10 @@
+09.00 - 09:30 (CET) – Arrival and Teams Introduction.
+09:30 - 10:00 (CET) – Kick-Off & Challenge Introduction.
+10:00 - 11:30 (CET) – Coding Time.
+11:30 - 12:30 (CET) – Mentoring from the Schneider Electric Team.
+12:30 - 16:00 (CET) – Coding Time.
+16:00 - 17:00 (CET) – Mentoring from the Schneider Electric Team.
+17:00 - 18:00 (CET) – Coding Time.
+18:00 - 18:15 (CET) – Closing Ceremony.
+18:15 - 23:59 (CET) – Coding Time.
+23:59 (CET) – Last Minute to Submit the Project.

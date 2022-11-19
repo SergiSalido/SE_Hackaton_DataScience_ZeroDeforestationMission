@@ -1,0 +1,21 @@
+📈 Data Science Challenge
+
+The data science challenge will consist in creating an image classification model, which from a given dataset, predicts what type of deforestation appears in the image with the objective of early detection of this type of actions in protected lands.
+
+The following resources will be provided to complete the challenge:
+    - A training 'csv' files that relate the ID of the images to their features and classes.
+    - A testing 'csv' files that relate the ID of the images to their features.
+    - A zip file containing a few thousand training and testing images. This zip file has a weight of 309MB.
+
+No infrastructure will be provided to train the models, so you can do it locally or as you prefer.
+
+The challenge will be to create an image classification model and train it with the training images we provide, once you find the model that maximizes the f1-score, you will have to apply your model to classify the testing images. Your score will depend on the F1-score of your model with the test images, the quality of your code and the explanation of the solution you provide.
+
+Evaluation will be based on:
+    - 700/1200:(OBJECTIVES) This will be obtained from the f1-score(macro) of the predictive model. Comparing the predictions your model has made about versus ground truth.
+    - 100/1200:(DOC) Brief presentation explaining what you have done and how you have done it.
+    - 400/1200:(QUALITY) Code quality and automation, complexity, maintainability, reliability, and security.
+
+Submission:
+The team lead of each team will have to deliver the link to their GitHub repository (public repository). It must contain the predictions of the model, the file in which the code has been made and a brief presentation explaining what has been done and how it has been done. Deadline: Saturday 19 November 2022 at 23:59. The repository must be public after the submission, so you can work with the repository in private, and prior to submit it make it public.
+More information about the challenge will appear in the challenge section on the day of the competition. To access the challenge, you can scroll down this page until you get to the two challenges section, or you can go directly by clicking here: Data challenge .
